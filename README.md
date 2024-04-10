@@ -2,7 +2,7 @@ Hi There 🤘
 
 ## 👨‍💻 About Me :
 
-I'm a RedTeamer and Information Security Researcher currently working for [@TrustedSec](https://github.com/trustedsec).
+I'm a RedTeamer and Information Security Researcher currently working for [@SpecterOps](https://github.com/specterops).
 
 ## 🔥 XPN Stats :
 
