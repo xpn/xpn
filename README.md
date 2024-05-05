@@ -1,13 +1,11 @@
-Hi There 🤘
-
 ## 👨‍💻 About Me :
 
-I'm a RedTeamer and Information Security Researcher currently working for [@SpecterOps](https://github.com/specterops).
+I'm a RedTeamer and Information Security Researcher working at [@SpecterOps](https://github.com/specterops).
 
 ## 🔥 XPN Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=xpn&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://blog.xpnsec.com/)
+![Stats](https://myreadme.vercel.app/api/embed/xpn?panels=userstatistics,toprepositories,toplanguages,commitgraph)
 
 ## ✏️ Blog :
 
-My research focusing on Information Security can be found at [https://blog.xpnsec.com](https://blog.xpnsec.com).
+My research focusing on InfoSec can be found at [https://blog.xpnsec.com](https://blog.xpnsec.com).
