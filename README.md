@@ -1,11 +1,25 @@
 ## 👨‍💻 About Me :
 
-I'm a RedTeamer and Information Security Researcher working at [@SpecterOps](https://github.com/specterops).
+Living the Research, Ops and Improvement lifestyle at [@SpecterOps](https://github.com/specterops)
+
+Blog is over at [https://blog.xpnsec.com](https://blog.xpnsec.com)
 
 ## 🔥 XPN Stats :
 
-![Stats](https://myreadme.vercel.app/api/embed/xpn?panels=userstatistics,toprepositories,toplanguages,commitgraph)
+![](github-metrics.svg)
 
-## ✏️ Blog :
+## ✏️ XPN Gists :
 
-My research focusing on InfoSec can be found at [https://blog.xpnsec.com](https://blog.xpnsec.com).
+![](metrics.plugin.gists.svg)
+
+## 🧠 XPN Habits :
+
+![](metrics.plugin.habits.charts.svg)
+
+## 🏅 XPN Achievements :
+
+![](metrics.plugin.achievements.compact.svg)
+
+## 🏋️‍♂️ XPN Coding Skillz :
+
+![](metrics.plugin.leetcode.svg)

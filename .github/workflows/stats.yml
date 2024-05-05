@@ -47,9 +47,10 @@ jobs:
           token: NOT_NEEDED
           base: ""
           plugin_leetcode: yes
+          plugin_leetcode_user: xpn
           plugin_leetcode_sections: solved, skills, recent
 
-      - name: Compact display
+      - name: Achievements
         uses: lowlighter/metrics@latest
         with:
           filename: metrics.plugin.achievements.compact.svg
